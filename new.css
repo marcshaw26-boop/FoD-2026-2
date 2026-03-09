@@ -30,6 +30,7 @@ font-size:60px;}
 #searcharea{top:17px;
 left:900px;
 height:50px;
+color: white;
 }
 #searchbox{width:500px;
 height:30px;
@@ -565,4 +566,5 @@ font-size:20px;
 color:#868383;
 
 }
+
 
